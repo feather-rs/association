@@ -3,8 +3,8 @@
     1. The name of the association is "Feather Association"
 2. Purpose
     1. The purpose of the association is
-        1. The promotion, development, and distribution of the open-source project Feather and associated tools
-        2. The general support of open-source project related to Minecraft
+        1. The promotion, development, and distribution of the open-source project Feather and subprojects
+        2. The general support of open-source projects related to Minecraft
 3. Membership
     1. Anyone whose interest is in accordance are with section 2. and have paid the membership fee is considered members of the association.
     2. A membership is valid from the month in which the membership is payed and the following 11 months. 
@@ -12,10 +12,10 @@
     4. In the event of a serious violation of the Articles of Association or policies, or in the event of direct opposition to the purpose stipulated in section 2. or function, the board may exclude a member if a majority of the board members are in favor. 
         1. The member in question must be notified in writing that its exclusion has been proposed and a reason for this, no later than 14 days before the board meeting where the decision is made. The member has the right to give an explanation to the board in writing, and speak at the board meeting before the vote. 
 4. General Assembly
-    1. The general meeting is the highest authority of the association.
-    2. The Annual General Meeting is held once a year before the end of the ______ month and is convened with at least three weeks' notice to members who are eligible to vote.
-    3. The public is eligible to attend the general meeting.
-    4. All members who are actively contributing towards the goals stipulated in section 2. and has expressed interest in voting 2 days prior to the General Assembly.
+    1. The General Assembly is the highest authority of the association.
+    2. The Annual General Assembly is held once a year before the end of the ______ month and is convened with at least three weeks' notice to members.
+    3. The public is eligible to attend the General Assembly.
+    4. All members who are actively contributing towards the goals stipulated in section 2. and has expressed interest in voting 2 days prior to the General Assembly is eligible to vote.
     5. The agenda for the annual General Assembly must contain at least the following items:
         1. Election of the Speaker
         2. Election of secretary (the person who transcribes the meeting)
