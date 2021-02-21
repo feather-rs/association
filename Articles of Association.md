@@ -3,36 +3,36 @@
     1. The name of the association is "Feather Association"
 2. Purpose
     1. The purpose of the association is
-        1. The promotion of feather
-        2. The development of feather
-        3. The distribution of feather and associated software and tools
-        4. The general development of modding Minecraft
+        1. The promotion, development, and distribution of the open-source project Feather and associated tools
+        2. The general support of open-source project related to Minecraft
 3. Membership
-    1. Anyone who is willing can be admitted as a Member through registration. 
-    2. Registration takes place on the association's registration form. 
+    1. Anyone whose interest is in accordance are with section 2. and have paid the membership fee is considered members of the association.
+    2. A membership is valid from the month in which the membership is payed and the following 11 months. 
     3. The membership fee is determined by the General Assembly.
+    4. In the event of a serious violation of the Articles of Association or policies, or in the event of direct opposition to the purpose stipulated in section 2. or function, the board may exclude a member if a majority of the board members are in favor. 
+        1. The member in question must be notified in writing that its exclusion has been proposed and a reason for this, no later than 14 days before the board meeting where the decision is made. The member has the right to give an explanation to the board in writing, and speak at the board meeting before the vote. 
 4. General Assembly
     1. The general meeting is the highest authority of the association.
-    2. The Annual General Meeting is held once a year before the end of the ______ month and is convened with at least three weeks' notice by email to members who are eligible to vote.
+    2. The Annual General Meeting is held once a year before the end of the ______ month and is convened with at least three weeks' notice to members who are eligible to vote.
     3. The public is eligible to attend the general meeting.
-    4. All members who are actively contributing towards the goals stipulated in section 2. and has notified the Board of Directors 8 days prior to the General Assembly are eligible to vote.
+    4. All members who are actively contributing towards the goals stipulated in section 2. and has expressed interest in voting 2 days prior to the General Assembly.
     5. The agenda for the annual General Assembly must contain at least the following items:
-        1. Election of secretary/transcriber
-        2. Election of vote teller
-        3. Election of chairman of the meeting
+        1. Election of the Speaker
+        2. Election of secretary (the person who transcribes the meeting)
+        3. Election of vote counter (the person who counts and calls resolutions)
         4. Financial reporting
         5. Consideration of proposals received
         6. Determination of membership fee
         7. Approval of the budget
-        8. Election of chairman of the Board of Directors
-        9. Election of deputy chairman of the Board of Directors
+        8. Election of chairman // of the Board of Directors
+        9. Election of deputy chairman // of the Board of Directors
         10. Election of 3-7 board members and 2 deputy members
         11. Election of auditor (s) and deputy auditor 
         12. Any other business
     6. Proposals that are to be considered at the General Assembly must be received by the Board of Directors no later than 8 days before the General Assembly. Proposals for amendments to the articles of association that are to be considered must be received by the Board of Directors no later than three weeks before the General Assembly.
-    7. The General Assembly is chaired by a chairman who cannot be a member of the board.
+    7. The General Assembly is presided by the Speaker who cannot be a member of the Board of Directors.
     8. The General Assembly makes its resolutions by 1/2 of votes and by public written voting.
-    9. Any resolution can be done by anonymous written voting if 1/3 of the Board of Directors vote yay.
+    9. Any resolution can be done by anonymous written voting if 1/3 of the Board of Directors are in favor.
 5. Extraordinary General Assembly
     1. Extraordinary General Assembly may be held when the Board of Directors deems it necessary or when at least 1/3 of the members submit a written reasoned request to the chairman and deputy chairman. In such cases, the General Assembly must be held no later than four weeks after the request has come to the knowledge of the chairman or deputy chairman.
 6. The daily management of the association
@@ -55,9 +55,6 @@
 10. Dissolution
     1. Dissolution of the association can only take place with a 2/3 majority at two consecutive General Assembly, one of which must be ordinary.
     2. In the event of dissolution, the association's assets shall be used in accordance with the purposes stipulated in section 2 or for other non-profit purposes. The decision on the specific use of the assets is made by the dissolving General Assembly.
-11. Dating
-    1. Thus adopted at the association's inaugural General Assembly on ___.____ and last amended at the ordinary / extraordinary General Assembly on __._____.
-
 
 # TODO
 1. Add a way of removing Voting Members either because they are inactive or other reasons.
