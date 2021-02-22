@@ -12,7 +12,7 @@
 |:------------|--------------:|
 | Domain | 20 EUR |
 | OVH VPS | 60 EUR |
-| B2 | 5 EUR |
+| Backblaze B2 | 5 EUR |
 | Cloudflare | 0 EUR |
 | GSuite | 0 EUR |
 
@@ -22,7 +22,7 @@ Price is based on Cloudflare registry price for the domain "".
 #### OVH VPS
 Price is based on value VPS at 5 EUR a month. 
 
-#### B2
+#### Backblaze B2
 Price is based on 50 GB storage and 5GB uploads a month and 2GB deletes.
 
 #### Cloudflare
