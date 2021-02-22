@@ -13,7 +13,7 @@
         1. The member in question must be notified in writing that its exclusion has been proposed and a reason for this, no later than 14 days before the board meeting where the decision is made. The member has the right to give an explanation to the board in writing, and speak at the board meeting before the vote. 
 4. General Assembly
     1. The General Assembly is the highest authority of the association.
-    2. The Annual General Assembly is held once a year before the end of the ______ month and is convened with at least three weeks' notice to members.
+    2. The Annual General Assembly is held electronicly once a year before the end of the ______ month and is convened with at least three weeks' notice to members.
     3. The public is eligible to attend the General Assembly.
     4. All members who are actively contributing towards the purpose stipulated in section 2 are eligible to vote.
     5. The agenda for the annual General Assembly must contain at least the following items:
@@ -31,8 +31,8 @@
         12. Any other business
     6. Proposals that are to be considered at the General Assembly must be received by the Board of Directors no later than 8 days before the General Assembly. Proposals for amendments to the articles of association that are to be considered must be received by the Board of Directors no later than three weeks before the General Assembly.
     7. The General Assembly is presided by the Speaker who cannot be a member of the Board of Directors.
-    8. The General Assembly makes its resolutions by 1/2 of votes and by public written voting.
-    9. Any resolution can be done by anonymously written voting if 1/3 of the Board of Directors are in favour.
+    8. The General Assembly makes its resolutions by 1/2 of votes and by electronic voting.
+    9. Voting can be done anonymously if 1/3 of the Board of Directors is in favour.
 5. Extraordinary General Assembly
     1. Extraordinary General Assembly may be held when the Board of Directors deems it necessary or when at least 1/3 of the members submit a written reasoned request to the chairman and deputy chairman. In such cases, the General Assembly must be held no later than four weeks after the request has come to the knowledge of the chairman or deputy chairman.
 6. The daily management of the association
