@@ -1,0 +1,2 @@
+# Secretary
+You as the secretary has the job of taking notes. These notes become the summary of the assembly. You are also in charge of figuring out who is present, this can be done through an online questionnaire.

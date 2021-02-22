@@ -18,17 +18,18 @@
     4. All members who are actively contributing towards the purpose stipulated in section 2 are eligible to vote.
     5. The agenda for the annual General Assembly must contain at least the following items:
         1. Election of the Speaker
-        2. Election of secretary (the person who transcribes the meeting)
-        3. Election of vote counter (the person who counts and calls resolutions)
-        4. Financial reporting
-        5. Consideration of proposals received
-        6. Determination of membership fee
-        7. Approval of the budget
-        8. Election of chairman // of the Board of Directors
-        9. Election of deputy chairman // of the Board of Directors
-        10. Election of 3-7 board members and 2 deputy members
-        11. Election of auditor (s) and deputy auditor 
-        12. Any other business
+        2. Election of secretary
+        3. Election of vote counter
+        4. Determination of present members
+        5. Financial reporting
+        6. Consideration of proposals received
+        7. Determination of membership fee
+        8. Approval of the budget
+        9. Election of chairman
+        10. Election of deputy chairman
+        11. Election of 3-7 board members and 2 deputy members
+        12. Election of auditor (s) and deputy auditor 
+        13. Any other business
     6. Proposals that are to be considered at the General Assembly must be received by the Board of Directors no later than 8 days before the General Assembly. Proposals for amendments to the articles of association that are to be considered must be received by the Board of Directors no later than three weeks before the General Assembly.
     7. The General Assembly is presided by the Speaker who cannot be a member of the Board of Directors.
     8. The General Assembly makes its resolutions by 1/2 of votes and by electronic voting.
