@@ -1,4 +1,4 @@
-# Budget
+# Yearly budget
 
 ## Income
 | Source | EUR |
