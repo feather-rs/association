@@ -13,3 +13,4 @@ Today we will found Feather Minecraft Association
 9. Election of 3-7 board members and 2 deputy members
 10. Election of auditor (s) and deputy auditor 
 11. Any other business
+12. Signing of the summary
