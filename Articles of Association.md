@@ -1,6 +1,6 @@
 # Articles of Association
 1. Name
-    1. The name of the association is "Feather Association"
+    1. The name of the association is "Feather Minecraft Association"
 2. Purpose
     1. The purpose of the association is
         1. The promotion, development, and distribution of the open-source project Feather and subprojects

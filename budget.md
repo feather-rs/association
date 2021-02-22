@@ -10,14 +10,14 @@
 ### Expenditure
 | Expenditure | EUR |
 |:------------|--------------:|
-| Domain | 20 EUR |
+| Domain | 7.71 EUR |
 | OVH VPS | 60 EUR |
 | Backblaze B2 | 5 EUR |
 | Cloudflare | 0 EUR |
 | GSuite | 0 EUR |
 
 #### Domain
-Price is based on Cloudflare registry price for the domain "".
+Price is based on Cloudflare registry price for the domain "feathermc.org".
 
 #### OVH VPS
 Price is based on value VPS at 5 EUR a month. 
