@@ -13,7 +13,7 @@
         1. The member in question must be notified in writing that its exclusion has been proposed and a reason for this, no later than 14 days before the board meeting where the decision is made. The member has the right to give an explanation to the board in writing, and speak at the board meeting before the vote. 
 4. General Assembly
     1. The General Assembly is the highest authority of the association.
-    2. The Annual General Assembly is held electronicly once a year before the end of the ______ month and is convened with at least three weeks' notice to members.
+    2. The Annual General Assembly is held electronicly once a year before the end of ______ and is convened with at least three weeks' notice to members.
     3. The public is eligible to attend the General Assembly.
     4. All members who are actively contributing towards the purpose stipulated in section 2 are eligible to vote.
     5. The agenda for the annual General Assembly must contain at least the following items:
@@ -26,7 +26,7 @@
         7. Approval of the budget
         8. Election of chairman
         9. Election of deputy chairman
-        10. Election of 3-7 board members and 2 deputy members
+        10. Election of 3-7 board members and 2 substitutes
         11. Election of auditor (s) and deputy auditor 
         12. Any other business
     6. Proposals that are to be considered at the General Assembly must be received by the Board of Directors no later than 8 days before the General Assembly. Proposals for amendments to the articles of association that are to be considered must be received by the Board of Directors no later than three weeks before the General Assembly.
