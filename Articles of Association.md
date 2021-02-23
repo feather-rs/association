@@ -38,7 +38,7 @@
 6. The daily management of the association
     1. The daily management of the association consists of the board, which in addition to the chairman consists of the deputy chairman, the treasurer and two to six additional members. The board of directors is elected by the General Assembly.
     2. The board of directors leads the association in accordance with these articles of association and the resolutions of the General Assembly.
-    3. No later than 14 days after re-electing the Board of Directors, a constituent meeting is held, where the Board of Directors elects the treasurer from among its members. All positions of trust are valid until the next General Assembly.
+    3. No later than 14 days after re-electing the Board of Directors, a constituent meeting is held, where the Board of Directors elects the treasurer from among its members.
     4. The Board of Directors also determines its own rules of procedure. It may set up subcommittees and working groups to carry out specific tasks.
     5. The chairman - and in their absence the deputy chairman - convenes and chairs the meetings of the board. Convening is done in writing stating the agenda when the chairman deems it necessary, or at least three members of the Board of Directors make a request to the chairman. In such cases, the meeting shall be held no later than 2 weeks after the request has come to the knowledge of the chairman.
 7. Finance, accounting and auditing
