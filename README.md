@@ -25,4 +25,4 @@ The budget is public and can be found  [here](./budget.md).
 - You can contact the Board of Directors at board@feathermc.org
 
 ### CVR
-The Association is registered under the name "Feather Minecraft Association" in Denmark and has been assigned the CVR: [_____](https://datacvr.virk.dk/data/visenhed?enhedstype=virksomhed&id=26858461).
+The Association is registered under the name "Feather Minecraft Association" in Denmark and has been assigned the CVR: [_____](https://datacvr.virk.dk/data/index.php?enhedstype=virksomhed&id=26858461&q=visenhed&language=en-gb).
