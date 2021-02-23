@@ -28,7 +28,7 @@
         9. Election of the deputy chairman
         10. Election of 3-7 board members and 2 substitutes
         11. Election of auditor(s) and one deputy auditor
-        12. Time for present members to bring forth any concerns
+        12. Any other business
     6. Proposals that are to be considered at the General Assembly must be received by the Board of Directors no later than 8 days before the General Assembly. Proposals for amendments to the Articles of Association that are to be considered must be received by the Board of Directors no later than three weeks before the General Assembly.
     7. The General Assembly is presided by the Speaker who cannot be elected as a member of the Board of Directors.
     8. The General Assembly makes its resolutions by 1/2 majority of present members elgible to vote via electronic voting.
