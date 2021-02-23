@@ -3,7 +3,7 @@
     1. The name of the association is "Feather Minecraft Association"
 2. Purpose
     1. The purpose of the association is
-        1. The promotion, development, and distribution of the open-source project Feather and subprojects
+        1. The promotion, development, maintenance, and distribution of the open-source project Feather and associated subprojects
         2. The general support of open-source projects related to Minecraft
 3. Membership
     1. Anyone whose interest is in accordance is with section 2 and have paid the membership fee is considered members of the association.
