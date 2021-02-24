@@ -13,7 +13,7 @@
         1. The member in question must be notified in writing that its exclusion has been proposed and a reason for this, no later than 14 days before the board meeting where the decision is made. The member has the right to give an explanation to the board in writing, and speak at the board meeting before the vote. 
 4. General Assembly
     1. The general meeting is the highest authority of the association.
-    2. The Annual General Meeting is held once a year before the end of the ______ month and is convened with at least three weeks' notice to members who are eligible to vote.
+    2. The Annual General Meeting is held once a year before the end of the ______ month and is convened with at least three weeks' notice by email to members.
     3. The public is eligible to attend the general meeting.
     4. All members who are actively contributing towards the goals stipulated in section 2. and has expressed interest in voting 2 days prior to the General Assembly.
     5. The agenda for the annual General Assembly must contain at least the following items:
