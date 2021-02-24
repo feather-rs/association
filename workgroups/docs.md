@@ -1,0 +1,2 @@
+# Documentation workgroup
+The task of the documentation workgroup is responsible for making sure that feather has good documentation. The work consists of tracking all missing documentation both for the source and on the book; tracking is done through issues. 
