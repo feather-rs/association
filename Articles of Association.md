@@ -30,9 +30,8 @@
         11. Election of auditor (s) and deputy auditor 
         12. Any other business
     6. Proposals that are to be considered at the General Assembly must be received by the Board of Directors no later than 8 days before the General Assembly. Proposals for amendments to the articles of association that are to be considered must be received by the Board of Directors no later than three weeks before the General Assembly.
-    7. The General Assembly is presided by the Speaker who cannot be a member of the Board of Directors.
-    8. The General Assembly makes its resolutions by 1/2 of votes and by electronic voting.
-    9. Voting can be done anonymously if 1/3 of the Board of Directors is in favour.
+    7. The General Assembly makes its resolutions by 1/2 of votes and by electronic voting.
+    8. Voting can be done anonymously if 1/3 of the Board of Directors is in favour.
 5. Extraordinary General Assembly
     1. Extraordinary General Assembly may be held when the Board of Directors deems it necessary or when at least 1/3 of the members submit a written reasoned request to the chairman and deputy chairman. In such cases, the General Assembly must be held no later than four weeks after the request has come to the knowledge of the chairman or deputy chairman.
 6. The daily management of the association
