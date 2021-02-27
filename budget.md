@@ -3,38 +3,11 @@
 ## Income
 | Source | EUR |
 |:-------|--------------:|
-| Membership fee | 100 EUR |
-| Donations | 45 EUR |
+| Membership fee | 70 EUR |
+| Donations | 7.71 EUR |
 
 ## Web
 ### Expenditure
 | Expenditure | EUR |
 |:------------|--------------:|
-| Domain | 7.71 EUR |
-| OVH VPS | 60 EUR |
-| Backblaze B2 | 5 EUR |
-| Cloudflare | 0 EUR |
-| GSuite | 0 EUR |
-
-#### Domain
-Price is based on Cloudflare registry price for the domain "feathermc.org".
-
-#### OVH VPS
-Price is based on value VPS at 5 EUR a month. 
-
-#### Backblaze B2
-Price is based on 50 GB storage and 5GB uploads a month and 2GB deletes.
-
-#### Cloudflare
-Price is based on either the free version or the pro version which is free for open-source projects.
-
-#### GSuite
-Free for nonprofits
-
-## Demo server
-| Expenditure | EUR |
-|:------------|--------------:|
-| OVH VPS | 60 EUR |
-
-#### OVH VPS
-Price is based on value VPS at 5 EUR a month. 
+| Hosting | 77.71 EUR |
