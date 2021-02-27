@@ -4,10 +4,10 @@
 | Source | EUR |
 |:-------|--------------:|
 | Membership fee | 70 EUR |
-| Donations | 10 EUR |
+| Donations | 20 EUR |
 
 ## Web
 ### Expenditure
 | Expenditure | EUR |
 |:------------|--------------:|
-| Hosting | 80 EUR |
+| Hosting | 90 EUR |
