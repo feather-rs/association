@@ -3,8 +3,8 @@
 ## Income
 | Source | EUR |
 |:-------|--------------:|
-| Membership fee | 50 EUR |
-| Donations | 95 EUR |
+| Membership fee | 100 EUR |
+| Donations | 45 EUR |
 
 ## Web
 ### Expenditure
