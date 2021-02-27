@@ -10,4 +10,4 @@
 ### Expenditure
 | Expenditure | EUR |
 |:------------|--------------:|
-| Hosting | 100 EUR |
+| Hosting | 80 EUR |
