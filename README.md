@@ -17,7 +17,7 @@ The budget is public and can be found  [here](./budget.md).
 - Duy Nguyen
 - Miro Andrin Debrunner
 - Amber Kowalski
-- GijsdeJong
+- Gijsde Jong
 
 ## Contact details
 ### Email
