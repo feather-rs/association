@@ -13,10 +13,11 @@ The budget is public and can be found  [here](./budget.md).
 - The chairman Caelum van Ispelen
 - The deputy chairman Jacob Emil Ulvedal Rosborg
 - The treasure Niklas Schurwanz
-- PauMachetti
-- DuyNguyen
-- MiroAndrinDebrunner
+- Pau Machetti
+- Duy Nguyen
+- Miro Andrin Debrunner
 - Amber Kowalski
+- GijsdeJong
 
 ## Contact details
 ### Email
