@@ -16,7 +16,6 @@ The budget is public and can be found  [here](./budget.md).
 - Pau Machetti
 - Duy Nguyen
 - Miro Andrin Debrunner
-- Amber Kowalski
 - Gijs de Jong
 
 ## Contact details
