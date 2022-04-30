@@ -3,11 +3,18 @@
 ## Income
 | Source | EUR |
 |:-------|--------------:|
-| Membership fee | 70 EUR |
-| Donations | 20 EUR |
+| Membership fee | 30 EUR |
+| Prior balance | 51.02 EUR |
 
 ## Web
 ### Expenditure
 | Expenditure | EUR |
 |:------------|--------------:|
-| Hosting | 90 EUR |
+| Domain | 8.98 EUR |
+| Stripe fees | 1.92 EUR |
+
+
+## Expected balance
+| Balance |
+|:-------:|
+| 70.12 EUR |
